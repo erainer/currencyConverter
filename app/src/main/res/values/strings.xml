@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="hint">Enter value</string>
+    <string name="us_to_aus">U.S. Dollar to Australian Dollar</string>
+    <string name="aus_to_us">Australian Dollar to U.S. Dollar</string>
+    <string name="btn_converter">Convert Money</string>
+</resources>
